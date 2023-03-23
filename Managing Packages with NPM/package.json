@@ -1,0 +1,17 @@
+{
+  "name": "managing-packages-with-npm",
+  "version": "1.0.0",
+  "description": "Managing Packages with NPM on Freecodecamp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "JSON",
+    "NPM",
+    "NodeJS"
+  ],
+  "author": "Cesar David Millan",
+  "license": "ISC"
+}
